@@ -1,177 +1,177 @@
 {
-  "products": [
-    {
-      "id": 1,
-      "title": "Apple iPhone 14",
-      "description": "Apple iPhone 14 (128 GB) - Blue",
-      "price": 89999,
-      "discountPercentage": 12.96,
-      "rating": 4.69,
-      "stock": 94,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 2,
-      "title": "Xiaomi [Smartchoice] Notebookpro",
-      "description": "Xiaomi [Smartchoice] Notebookpro",
-      "price": 49999,
-      "discountPercentage": 17.94,
-      "rating": 4.44,
-      "stock": 34,
-      "brand": "Xiaomi",
-      "category": "tablet",
-      "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 55555,
-      "discountPercentage": 15.46,
-      "rating": 4.09,
-      "stock": 36,
-      "brand": "Samsung",
-      "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "Xiaomi Pad 6",
-      "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
-      "price": 29999,
-      "discountPercentage": 17.91,
-      "rating": 4.3,
-      "stock": 123,
-      "brand": "OPPO",
-      "category": "tablets",
-      "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
-        "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Apple iPhone 11",
-      "description": "Apple iPhone 11 (64GB) - White",
-      "price": 79999,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 6,
-      "title": "Lenovo Tab P12 Pro AMOLED",
-      "description": "Lenovo Tab P12 Pro AMOLED (12.6 inch (32 cm), 8 GB, 256 GB, Wi-fi Only), Storm Grey with Precision Pen 3",
-      "price": 19999,
-      "discountPercentage": 11.02,
-      "rating": 4.57,
-      "stock": 83,
-      "brand": "Lenovo",
-      "category": "tablets",
-      "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "title": "Apple iPhone 13",
-      "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
-      "price": 69999,
-      "discountPercentage": 4.15,
-      "rating": 4.25,
-      "stock": 50,
-      "brand": "Apple",
-      "category": "smartphones",
-      "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 8,
-      "title": "Lenovo IdeaPad Slim 5 ",
-      "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14" (35.5cm)",
-      "price": 29999,
-      "discountPercentage": 10.23,
-      "rating": 4.43,
-      "stock": 68,
-      "brand": "Lenovo",
-      "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 9,
-      "title": "Samsung Galaxy Tab A8K",
-      "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
-      "price": 49999,
-      "discountPercentage": 11.83,
-      "rating": 4.54,
-      "stock": 96,
-      "brand": "Samsung",
-      "category": "tablets",
-      "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
-        "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
-      ]
-    },
-    {
-      "id": 10,
-      "title": "Apple MacBook Air Laptop",
-      "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display,",
-      "price": 89999,
-      "discountPercentage": 6.18,
-      "rating": 4.43,
-      "stock": 89,
-      "brand": "89999",
-      "category": "laptops",
-      "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
-      ]
-    },
-    {
-      "id": 11,
-      "title": "perfume Oil",
-      "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
-      "price": 130,
-      "discountPercentage": 8.4,
-      "rating": 4.26,
-      "stock": 65,
-      "brand": "Impression of Acqua Di Gio",
-      "category": "fragrances",
-      "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg",
-      "images": [
-        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg",
-        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg"
-      ]
-    }
-  ]
+    "products": [
+        {
+            "id": 1,
+            "title": "Apple iPhone 14",
+            "description": "Apple iPhone 14 (128 GB) - Blue",
+            "price": 89999,
+            "discountPercentage": 12.96,
+            "rating": 4.69,
+            "stock": 94,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Xiaomi [Smartchoice] Notebookpro",
+            "description": "Xiaomi [Smartchoice] Notebookpro",
+            "price": 49999,
+            "discountPercentage": 17.94,
+            "rating": 4.44,
+            "stock": 34,
+            "brand": "Xiaomi",
+            "category": "tablet",
+            "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Samsung Universe 9",
+            "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+            "price": 55555,
+            "discountPercentage": 15.46,
+            "rating": 4.09,
+            "stock": 36,
+            "brand": "Samsung",
+            "category": "laptops",
+            "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Xiaomi Pad 6",
+            "description": "Xiaomi Pad 6| Qualcomm Snapdragon 870| ",
+            "price": 29999,
+            "discountPercentage": 17.91,
+            "rating": 4.3,
+            "stock": 123,
+            "brand": "OPPO",
+            "category": "tablets",
+            "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+                "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Apple iPhone 11",
+            "description": "Apple iPhone 11 (64GB) - White",
+            "price": 79999,
+            "discountPercentage": 10.58,
+            "rating": 4.09,
+            "stock": 32,
+            "brand": "Huawei",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Lenovo Tab P12 Pro AMOLED",
+            "description": "Lenovo Tab P12 Pro AMOLED (12.6 inch (32 cm), 8 GB, 256 GB, Wi-fi Only), Storm Grey with Precision Pen 3",
+            "price": 19999,
+            "discountPercentage": 11.02,
+            "rating": 4.57,
+            "stock": 83,
+            "brand": "Lenovo",
+            "category": "tablets",
+            "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Apple iPhone 13",
+            "description": "Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched",
+            "price": 69999,
+            "discountPercentage": 4.15,
+            "rating": 4.25,
+            "stock": 50,
+            "brand": "Apple",
+            "category": "smartphones",
+            "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Lenovo IdeaPad Slim 5 ",
+            "description": "Lenovo IdeaPad Slim 5 Intel Core i5 12450H 14 (35.5cm)",
+            "price": 29999,
+            "discountPercentage": 10.23,
+            "rating": 4.43,
+            "stock": 68,
+            "brand": "Lenovo",
+            "category": "laptops",
+            "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Samsung Galaxy Tab A8K",
+            "description": "Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty",
+            "price": 49999,
+            "discountPercentage": 11.83,
+            "rating": 4.54,
+            "stock": 96,
+            "brand": "Samsung",
+            "category": "tablets",
+            "thumbnail": "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg",
+                "https://m.media-amazon.com/images/I/51b9LjzmPCL._SL1080_.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Apple MacBook Air Laptop",
+            "description": "Apple MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display,",
+            "price": 89999,
+            "discountPercentage": 6.18,
+            "rating": 4.43,
+            "stock": 89,
+            "brand": "89999",
+            "category": "laptops",
+            "thumbnail": "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "perfume Oil",
+            "description": "Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil",
+            "price": 130,
+            "discountPercentage": 8.4,
+            "rating": 4.26,
+            "stock": 65,
+            "brand": "Impression of Acqua Di Gio",
+            "category": "fragrances",
+            "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg",
+            "images": [
+                "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg",
+                "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+jgazYciL._SY300_SX300_.jpg"
+            ]
+        }
+    ]
 }
