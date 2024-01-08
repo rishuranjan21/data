@@ -36,15 +36,15 @@
       "id": 3,
       "title": "Samsung Universe 9",
       "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
+      "price": 55555,
       "discountPercentage": 15.46,
       "rating": 4.09,
       "stock": 36,
       "brand": "Samsung",
       "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/3/1.jpg"
+        "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/41+++oy23ZL._SX300_SY300_.jpg"
       ]
     },
     {
@@ -106,7 +106,7 @@
       "thumbnail": "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
       "images": [
         "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
-        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71xb2xkN5qL._SL1500_.jpg"
       ]
     },
     {
